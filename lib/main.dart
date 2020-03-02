@@ -1,3 +1,4 @@
+import 'package:mobx_codegen/mobx_codegen.dart';
 import 'package:flutter/material.dart';
 import './Layouts/default.dart';
 
